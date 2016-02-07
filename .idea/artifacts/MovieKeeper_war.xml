@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MovieKeeper:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="MovieKeeper.war">
+      <element id="artifact" artifact-name="MovieKeeper:war exploded" />
+    </root>
+  </artifact>
+</component>
